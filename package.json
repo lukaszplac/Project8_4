@@ -1,0 +1,32 @@
+{
+  "name": "project8_4",
+  "version": "1.0.0",
+  "description": "Kodilla project 8.4",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "kodilla8_4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lukaszplac/Project8_4.git"
+  },
+  "keywords": [
+    "kodilla",
+    "grunt",
+    "js",
+    "javascript"
+  ],
+  "author": "Lukasz Plac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukaszplac/Project8_4/issues"
+  },
+  "homepage": "https://github.com/lukaszplac/Project8_4#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
